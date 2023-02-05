@@ -4,10 +4,10 @@ In this repo, a comparison is made between simple CNN stacked architectures cont
 
 The models metrics are then evaluated to see what would be the difference between simple architectures and complex architectures for a multi-class classification problem, where the aim is to classify correctly black and white 64x64 images of faces:
 
-*wearing a facemask 
-*not wearing a facemask
-*wearing a facemask partially covered
-*not a face
+* wearing a facemask 
+* not wearing a facemask
+* wearing a facemask partially covered
+* not a face
 
 The dataset was obtained from kaggle from the following link: https://www.kaggle.com/datasets/jamesnogra/face-mask-usage 
 
